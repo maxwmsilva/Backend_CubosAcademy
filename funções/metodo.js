@@ -3,12 +3,14 @@ const person= {
   idade: 30,
   profissao: "Engenheiro",
   altura: 1.68,
+  
   apresentar:function () {
     const faixaEtaria = this.determinarFaixaEtaria(this.idade);
     console.log(`Olá! Meu nome é ${this.nome}, sou um jovem de ${this.idade}  anos,sou ${faixaEtaria},
      ${this.altura}m de altura e sou ${this.profissao}`);
         
   },
+  
   determinarFaixaEtaria: function () {
       if (this.idade <= 21) {
         return "jovem";
