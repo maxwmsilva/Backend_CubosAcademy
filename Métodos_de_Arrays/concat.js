@@ -7,3 +7,4 @@ const d = [7,8];
 const resultado = a.concat(b,c,d);
 
 console.log(resultado);
+
