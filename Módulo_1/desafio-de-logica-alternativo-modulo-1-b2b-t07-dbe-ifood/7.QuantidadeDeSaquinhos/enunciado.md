@@ -1,5 +1,5 @@
-## 7.QuantidadeDeSaquinhos
-link:https://www.hackerrank.com/contests/desafio-de-logica-alternativo-modulo-1-b2b-t07-dbe-ifood/challenges/quantidade-de-saquinhos
+## Quantidade de saquinhos 
+link: https://www.hackerrank.com/contests/desafio-de-logica-alternativo-modulo-1-b2b-t07-dbe-ifood/challenges/quantidade-de-saquinhos
 
 Um pequeno empresário que trabalha fazendo doces para festas percebeu que precisava quantizar a quantidade de saquinhos que ele irá gastar em uma determinada demanda. Ele sabe que, em média, cada saquinho comporta 15 doces.
 
@@ -29,3 +29,13 @@ Sample Output 0
 Explanation 0
 
 A soma dos doces feitos é 30 + 20 + 60 = 110. Em cada saquinho cabem, em média, 15 doces. Ou seja, a quantidade estimada de saquinhos é de 110/15 = 7,33. Temos que arredondar esse número para mais, caso contrário, correremos o risco de teremos doces não embalados.
+
+Contest ends in 4 hours
+Submissions: 11
+Max Score: 100
+Difficulty: Easy
+Rate This Challenge:
+
+    
+More
+ 
