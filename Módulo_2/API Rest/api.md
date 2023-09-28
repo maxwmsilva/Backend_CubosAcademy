@@ -43,7 +43,7 @@ GET/livros/3 -> 3 é um recurso da coleção de livros, possui o identificador 3
 
 POST/livros -> serve para cadastrar um novo recurso dentro de uma coleção;
 
-PUT/livros/12 -> alera por completo um recurso numa coleção;
+PUT/livros/12 -> altera por completo um recurso numa coleção;
 
 PACH/livros/12 -> altera uma parte do recurso.
 
@@ -71,7 +71,7 @@ Status code:
 > O sevidor encontrou erro e não pode processar.
 
 ## Comandos usados 
-npm init -y
+npm install -y
 .gitignore -> node_modules
 npm install express
 npm install -D nodemon 
@@ -80,3 +80,6 @@ npm install -D nodemon
 criar pasta src
 index.js
 >>>>>>> 6c805c593b3e834647fb8bdcb0b1f3f3b92c4cc7
+
+## Importar npm de outro projeto 
+npm i 
